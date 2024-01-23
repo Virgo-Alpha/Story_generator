@@ -3,7 +3,7 @@
 
 import openllm
 
-client = openllm.client.HTTPClient('http://localhost:3000')
+client = openllm.client.HTTPClient('http://0.0.0.0:3000')
 response = client.query('What is the capital of France?')
 
 print(response)
