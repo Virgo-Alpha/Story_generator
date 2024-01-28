@@ -7,4 +7,4 @@ I will also post to story3 [platform](https://story3.com/) for the [hackathon](h
 
 I will also user OpenLLM from this [video tutorial](https://youtu.be/8nZZ2oQhx4E)
 
-Learn LLMs
+Learn LLMs e.g., [gemini](https://www.kdnuggets.com/how-to-access-and-use-gemini-api-for-free)
