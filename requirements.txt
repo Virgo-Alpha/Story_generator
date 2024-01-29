@@ -1,4 +1,2 @@
 streamlit
-use-pep517
-dotenv
 google-generativeai
