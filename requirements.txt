@@ -1,5 +1,5 @@
 streamlit==0.62.1
---upgrade setuptools wheel
---use-pep517 pep517
+setuptools wheel
+pep517
 dotenv
 google-generativeai
