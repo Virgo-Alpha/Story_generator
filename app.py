@@ -26,7 +26,7 @@ def main():
     st.title("Story Generator")
 
     # Get user input prompt
-    prompt = st.text_input("Enter your prompt:")
+    prompt = st.text_input("Create a 3 act story of less than 500 words about:")
 
     if st.button("Generate Story"):
         if prompt:
